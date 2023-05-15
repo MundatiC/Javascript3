@@ -68,6 +68,8 @@ Sample output
 ```js
 console.log(difference([1, 2, 3], [100, 2, 1, 10]));
 ```
+
+Sample output
 ```bash
 ["3", "10", "100"]
 ```
@@ -78,7 +80,7 @@ console.log(difference([1, 2, 3], [100, 2, 1, 10]));
 ```js
 console.log(filter_array_values([58, '', 'abcd', true, null, false, 0]));
 ```
-
+Sample output
 ```bash
 [58, "abcd", true]
 ```
